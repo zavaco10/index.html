@@ -1,0 +1,57 @@
+body {
+  background-color: gray;
+ 
+  
+}
+
+h1 {color: black
+font-size: 36px
+font-family: Arial, Helvetica, Sans-sarif;
+border: 2px solid black; padding-left: 30%;
+}
+h2 {font-size: 26px; padding-left: 30%;
+  }
+
+h3{
+  font-size: 32px;
+  color: white; 
+  padding-left: 30%;
+  
+}
+
+.aboutme {background-color: black; color: white;padding-left: 30%
+  
+  }
+
+p {font-size: 18px; color: white; width: 500px;
+  }
+
+.li{
+  background-color: black;
+}
+
+li {
+  font-size: 18px;
+  color: white;
+}
+
+.header{
+  margin-left: 70px;
+}
+
+img {
+  height: 600px;
+  width; auto;
+  border-radius: 25px;
+  
+}
+
+
+
+  
+}
+
+.footer {
+  background-color: black;
+}
+
